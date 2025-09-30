@@ -4,13 +4,13 @@ Unit : 1
 
 Code:
 
-==> Using for loop
+#Using for loop
 print("Using a for loop:")
 for num in range(8, 90, 3):
 print(num)
 
 
-==> Using while loop
+#Using while loop
 print("Using a while loop:")
 num_while = 8
 while num_while <= 89:
